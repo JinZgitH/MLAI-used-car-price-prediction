@@ -6,11 +6,11 @@ In this exercise, I will explore a dataset from Kaggle. I analyzed a large datas
 I used advanced modeling techniques to analyze and predict car prices based on features like age, mileage, make, condition, and more.
 By understanding these patterns, a used-car dealership can make smarter decisions when sourcing, pricing, and marketing inventory.
 
-## Link to the jupyter notebook
+## Link To The Jupyter Notebook
 
 [use_car_price_prediction](use_car_price_prediction.ipynb)
 
-## CRISP-DM process
+## CRISP-DM Process
 
 ### Business Understanding
 
